@@ -1,2 +1,0 @@
-# hr-attrition-analytics
-HR ANALYTICS: EMPLOYEE ATTRITION DEEP DIVE
